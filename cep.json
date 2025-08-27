@@ -1,0 +1,17 @@
+[
+  {
+    "rua": "Praça da Sé",
+    "bairro": "Sé",
+    "estado": "São Paulo"
+  },
+  {
+    "rua": "Avenida Paulista",
+    "bairro": "Bela Vista",
+    "estado": "São Paulo"
+  },
+  {
+    "rua": "Avenida Francisco Matarazzo",
+    "bairro": "Água Branca",
+    "estado": "São Paulo"
+  }
+]
