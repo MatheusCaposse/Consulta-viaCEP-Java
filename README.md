@@ -2,7 +2,8 @@ Consulta de CEP em Java
 
 Este projeto foi desenvolvido como parte de um desafio do curso de Java da Alura. O objetivo é criar uma aplicação que realiza buscas na API de CEPs do ViaCEP e saber lidar com possíveis erros que possam surgir durante a consulta.
 
-Funcionalidades
+
+💡 Funcionalidades
 
 - Solicita ao usuário o CEP que deseja buscar.
 
@@ -14,7 +15,7 @@ Funcionalidades
 
 - Armazena os resultados em um arquivo JSON de forma organizada.
 
-Tecnologias e Conceitos Aplicados
+🔧 Tecnologias e Conceitos Aplicados
 
 - Java, utilizando HttpClient para comunicação com a API.
 
