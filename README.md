@@ -5,6 +5,7 @@ Este projeto foi desenvolvido como parte de um desafio do curso de Java da Alura
 
 💡 Funcionalidades
 
+
 - Solicita ao usuário o CEP que deseja buscar.
 
 - Valida o CEP antes de consultar a API (tamanho correto e apenas números).
@@ -14,8 +15,10 @@ Este projeto foi desenvolvido como parte de um desafio do curso de Java da Alura
 - Trata exceções como CEP inválido, CEP não encontrado ou entrada incorreta.
 
 - Armazena os resultados em um arquivo JSON de forma organizada.
+  
 
 🔧 Tecnologias e Conceitos Aplicados
+
 
 - Java, utilizando HttpClient para comunicação com a API.
 
@@ -24,6 +27,7 @@ Este projeto foi desenvolvido como parte de um desafio do curso de Java da Alura
 - Exceções customizadas para tratamento de erros.
 
 - Boas práticas de programação, incluindo separação de responsabilidades e validação de entrada.
+
 
 Objetivo do Projeto
 
